@@ -2,7 +2,7 @@ const { App } = require('@slack/bolt');
 
 const SLACK_BOT_TOKEN="xoxb-2317231393845-2707095521495-XpA8eHz5ybNyyV77fJ16fUpk"
 const SLACK_SIGNING_SECRET="d3048e7e6ecfd6b2679adabc0f7f5851"
-const SLACK_APP_TOKEN="xapp-1-A02LT2LECUX-2723989610612-ab5ba6817161ad1b2ba65b86c92f16a9f2044f0f746590320ef3c8c3fd2957de"
+const SLACK_APP_TOKEN="xapp-1-A02LT2LECUX-2715046698230-a520f47818744d29e0f6f5b8ac55f99018c201eea29b9f6bfc936f3a76120eac"
 
 /* 
 This sample slack application uses SocketMode
