@@ -1,0 +1,23 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "fasjkjfkasl",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snowkirin/slack-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snowkirin/slack-bot/issues"
+  },
+  "homepage": "https://github.com/snowkirin/slack-bot#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.8.1"
+  }
+}
